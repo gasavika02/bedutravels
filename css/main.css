@@ -1,0 +1,33 @@
+body {
+    margin: 0px
+    front-family: "Roboto";
+}
+
+nav {
+   backround-color= #27272a;
+   height:50px
+   width: 100px
+   display: flex;
+   justify-content: space-between;
+   align-items:center;
+
+
+}
+ a{
+  color: #ffffff;
+
+ }
+
+ #bedu {
+     front-family: "Courier New"
+
+     a.verde {
+         color: green; !important;
+     }
+
+     .amarillo {
+         color: yellow;
+
+     }
+ 
+
